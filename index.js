@@ -8,7 +8,7 @@ module.exports = require('./lib/loader.js')
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'AuraSMPbyADMINAURA.aternos.me', // Change this to your Aternos IP
+  host: 'AuraSMPSurvival.aternos.me', // Change this to your Aternos IP
   username: 'AuraSentinel_Bot',      // The name of your 24/7 bot
   version: '26.1'                  // Matches your Spigot 26.1
 })
